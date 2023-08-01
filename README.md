@@ -37,3 +37,5 @@
 -----
 
 ## ERD 구성
+
+![image](https://github.com/CHAYEONIL/wanted-pre-onboarding-backend/assets/49806534/2d6b1c46-7010-466b-b151-ada887d3df5c)
